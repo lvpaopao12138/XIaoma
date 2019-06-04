@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Xiaoma"
+  id="myeclipse.1555470744055"
+  context-root="/NewXiaoma1"
+  j2ee-spec="6.0"
+  archive="Xiaoma.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
